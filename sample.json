@@ -1,0 +1,296 @@
+{
+    "public_identifier": "ravimevcha",
+    "profile_pic_url": None,
+    "background_cover_image_url": None,
+    "first_name": "Ravi",
+    "last_name": "Mevcha",
+    "full_name": "Ravi Mevcha",
+    "occupation": "Sr. Product Manager at Mahindra Rise",
+    "headline": "Sr. Product Manager at Mahindra & Mahindra",
+    "summary": "Product manager with 9 years of accomplishments in designing and launching successful products in B2B and B2C space.\n\nBeliever in creating beautiful software that provides a first class user experience.\n\nProven success at turning new ideas into launched products through successful cross-functional teams collaboration, data - driven product development and user experience innovation\ n\ nSkilled in strategic planning and implementation;able to prioritize effectively and achieve objectives within time and
+    budget.
+    ", "
+    country ": "
+    IN ", "
+    country_full_name ": "
+    India ", "
+    city ": "
+    Mumbai ", "
+    state ": "
+    Maharashtra ", "
+    experiences ": [{"
+    starts_at ": {"
+    day ": 1, "
+    month ": 1, "
+    year ": 2018}, "
+    ends_at ": None, "
+    company ": "
+    Mahindra Rise ", "
+    company_linkedin_profile_url ": "https://in.linkedin.com/company/mahindragroup", "title": "Sr. Product Manager", "description": None, "location": "Mumbai Area, India", "logo_url": None}, {"starts_at": {"day": 1, "month": 10, "year": 2015}, "ends_at": {"day": 1, "month": 1, "year": 2018}, "company": "Avenue Ecommerce Limited - DMart", "company_linkedin_profile_url": None, "title": "Sr. Product Manager", "description": "Led efforts, as the product owner, to create mobile app and website for DMart Ready, an eCommerce venture of DMart – leading retailer of India. Managed full project lifecycle: design, development, testing, and implementation.Crafted business requirements, UI specs, wireframes / prototype and provided direction to UI developers to ensure best in class ecommerce experience.Managed multiple cross functional teams from solution concept to successful launch of DMart Ready.Analyzed mobile app & site performance through analytics tools and initiated improvements, including merchandising efforts, technical projects, and creative changes to improve user engagement.Developed the strategy, product requirements and product roadmaps based on customer requirements and competitive market analysis.", "location": "Mumbai Area, India", "logo_url": None}, {"starts_at": {"day": 1, "month": 4, "year": 2011}, "ends_at": {"day": 1, "month": 9, "year": 2015}, "company": "GEP Worldwide", "company_linkedin_profile_url": "https://in.linkedin.com/company/gep-worldwide", "title": "Product Manager", "description": "Led as a Product Manager to conceptualize, design and launch cloud based, mobile & web enabled product (SMART by GEP - smartbygep.com) that is being used by 50+ Fortune 500 companies.Led unified product platform group for building architecture components of platform that helps 120+ person development team to design & develop at faster pace.Completely revamped company’s reporting and analytics functionality with special focus on cross platform (Web & Mobile) features. Transformed reporting functionality into competitive strength by setting focus on usability and user experience.Acted as product owner of GEP’s mobile platform. Successfully launched mobile apps on iOS and Android platform.Turned customer feedback into requirements for new supply chain analytics product. Directly managed product from conceptualization to launch in less than 4 months with 1000+ users. 
+        Received Best Innovation Award
+    for the same.Successfully delivered web - based configuration products which reduce average deployment time from weeks to days.Through interaction with customers,
+    prospects and sales team,
+    identified pain points and defined new product functionality address to those challenges.Managing day - to - day process of translating product roadmap into specification - writing PRDs and user stories,
+    prioritizing 2 - week agile iterations,
+    working hands - on with developers and QA.
+    ", "
+    location ": "
+    Mumbai Area,
+    India ", "
+    logo_url ": None}, {"
+    starts_at ": {"
+    day ": 1, "
+    month ": 7, "
+    year ": 2008}, "
+    ends_at ": {"
+    day ": 1, "
+    month ": 3, "
+    year ": 2011}, "
+    company ": "
+    DUX Soft Pvt.Ltd.
+    ", "
+    company_linkedin_profile_url ": "
+    https: //in.linkedin.com/company/dux-soft-pvt.-ltd.", "title": "Business Analyst", "description": "Responsible for managing the product throughout the product lifecycle, gathering and prioritizing product and customer requirements and working closely with leadership team to deliver winning products.Performed key role in understanding and documenting business processes and coordinating technical support to clients from India, USA and China.Worked with engineering and other cross functional groups to translate customer needs into product specific requirements.Collaborated with Sales & Marketing team and third-party technology distributors to facilitate communication for successful project launches.Established professional relationship with potential clients in China and played key role in turning it into distributorship which gave company additional revenue stream.Assisted in building the company and team from an early-day startupTook new initiative and implemented CRM for reporting and automating business processes.Performed successful product demonstrations for customers.", 
+    "location": "Mumbai Area, India",
+    "logo_url": None
+}
+],
+"education": [
+{
+    "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+    },
+    "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+    },
+    "field_of_study": "IT & Marketing",
+    "degree_name": "MBA",
+    "school": "International Institute of Information Technology (I2IT), Pune",
+    "school_linkedin_profile_url": None,
+    "description": None,
+    "logo_url": None
+},
+{
+    "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+    },
+    "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+    },
+    "field_of_study": "Information Technology",
+    "degree_name": "B.E.",
+    "school": "Gujarat University",
+    "school_linkedin_profile_url": None,
+    "description": None,
+    "logo_url": None
+}
+],
+"languages": [
+"English",
+"Hindi",
+"Gujarati"
+],
+"accomplishment_organisations": [],
+"accomplishment_publications": [],
+"accomplishment_honors_awards": [
+{
+    "title": "Annual Innovation Award - 2012",
+    "issuer": "GEP",
+    "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2012
+    },
+    "description": None
+},
+{
+    "title": "Synergy Team Award",
+    "issuer": "GEP",
+    "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+    },
+    "description": None
+},
+{
+    "title": "Synergy Team Award",
+    "issuer": "GEP",
+    "issued_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+    },
+    "description": None
+},
+{
+    "title": "Annual 
+        Innovation Award - 2011 ", "
+        issuer ": "
+        GEP ", "
+        issued_on ": {"
+        day ": 1, "
+        month ": 12, "
+        year ": 2011}, "
+        description ": None}, {"
+        title ": "
+        GEP Star Award ", "
+        issuer ": "
+        GEP ", "
+        issued_on ": {"
+        day ": 1, "
+        month ": 10, "
+        year ": 2011}, "
+        description ": None}, {"
+        title ": "
+        Passion
+        for Action ", "
+        issuer ": "
+        GEP ", "
+        issued_on ": {"
+        day ": 1, "
+        month ": 6, "
+        year ": 2011}, "
+        description ": None}], "
+        accomplishment_patents ": [{"
+        title ": "
+        Procurement System ", "
+        issuer ": "
+        United States ", "
+        issued_on ": {"
+        day ": 18, "
+        month ": 8, "
+        year ": 2015}, "
+        description ": "
+        Natural language based intelligent procurement system that automates end to end source to
+        pay process and provide analytics based on user’ s voice command.
+        ", "
+        application_number ": "
+        US9111248B2 ", "
+        patent_number ": "
+        US9111248B2 ", "
+        url ": "
+        https: //patents.google.com/patent/US9111248B2"}], "accomplishment_courses": [], "accomplishment_projects": [{"starts_at": None, "ends_at": None, "title": "GICN", "description": "GICN (Global Indian CXO Network) is a community for Global Indian Business Leaders. GICN profiles Indian/Indian-origin CEOs, CXO, VPs, MDs, Directors and other successful leaders across the world who are representing brand India in their own field.", "url": "http://gicn.in"}, {"starts_at": None, "ends_at": None, "title": "Moviee Monk", "description": "Moviee Monk is a movie recommendation and news website. Moviee Monk provides handpicked selection of the best movies across the 
+            different genre.It also features movie reviews,
+        quotes and interesting trivia about Hollywood and Bollywood movies.
+        ", "
+        url ": "
+        http: //movieemonk.com"}, {"starts_at": None, "ends_at": None, "title": "RideIndia", "description": "RideIndia is a unique initiative with an objective of promoting Motorcycle Tourism in India. RideIndia provides an online platform for products & services related to motorcycle tourism, with special focus on motorcycle rentals.", "url": "http://rideindia.co.in"}, {"starts_at": None, "ends_at": None, "title": "SMART by GEP", "description": "SMART by GEP is a unified procurement and sourcing suite which providing features related to Spend Analysis, Sourcing, Procurement, Contract Management and Supplier Performance.", "url": "http://www.smartbygep.com/"}], "accomplishment_test_scores": [], "volunteer_work": [], "certifications": [], "connections": 500, "people_also_viewed": [{"link": "https://in.linkedin.com/in/mudit-upmanyu-b0033b96", "name": "Mudit Upmanyu", "summary": "Product Manager at EdgeVerve", "location": "Pune"}, {"link": "https://in.linkedin.com/in/indrajitchall", "name": "Indrajit Chall", "summary": "Senior Product Manager at GEP Worldwide", "location": "Mumbai"}, {"link": "https://in.linkedin.com/in/rajendra-tawade-b13a29b", "name": "Rajendra Tawade", "summary": "Hardware Design Engineer", "location": "India"}, {"link": "https://uk.linkedin.com/in/asimkazmi1managementconsultant", "name": "Asim Kazmi", "summary": "Digital (SaMD) Portfolio Manager at ConvaTec", "location": "London"}, {"link": "https://in.linkedin.com/in/vipin-jain-81775a8a", "name": 
+    "Vipin Jain",
+    "summary": "Owner - Evo Surfaces",
+    "location": "Mumbai Suburban district"
+},
+{
+    "link": "https://uk.linkedin.com/in/simon-mccarthy-73794430",
+    "name": "Simon McCarthy",
+    "summary": "Senior Product Management Leader & CLM Consultant",
+    "location": "London"
+},
+{
+    "link": "https://in.linkedin.com/in/gayatri-ranade-3555aa1a",
+    "name": "Gayatri Ranade",
+    "summary": "PMP Certified Professional-  Centralized Monitoring Manager at IQVIA",
+    "location": "Mumbai"
+},
+{
+    "link": "https://in.linkedin.com/in/akshay-kumar-9bb41a166",
+    "name": "Akshay Kumar",
+    "summary": "4.8 years of experience in  procure to pay department.(accounts payablev and procurement) with coupa and ariba tools",
+    "location": "Andhra Pradesh, India"
+},
+{
+    "link": "https://it.linkedin.com/in/luca-fabbris-7204b95",
+    "name": "Luca Fabbris",
+    "summary": "Product Manager at JAGGAER",
+    "location": "Varese"
+},
+{
+    "link": "https://in.linkedin.com/in/kiran-rane-a5136044",
+    "name": "kiran rane",
+    "summary": "ITM",
+    "location": "Mumbai"
+},
+{
+    "link": "https://in.linkedin.com/in/hari-kotian-349a4b169",
+    "name": "Hari Kotian",
+    "summary": "--",
+    "location": "India"
+},
+{
+    "link": "https://in.linkedin.com/in/anirudha-gore-43094049",
+    "name": "Anirudha Gore",
+    "summary": "Director",
+    "location": "Pune"
+},
+{
+    "link": "https://in.linkedin.com/in/nadeem-ahmed-70a07373",
+    "name": "nadeem Ahmed",
+    "summary": "Associate Manager at Accenture",
+    "location": "Bangalore Urban"
+},
+{
+    "link": "https://in.linkedin.com/in/dhivya-aiyamperumal-0b013373",
+    "name": "Dhivya Aiyamperumal",
+    "summary": "IIT Alumni, Teacher, Coder, Tech enthusiast, Learner",
+    "location": "Tamil Nadu, India"
+},
+{
+    "link": "https://in.linkedin.com/in/kawaljeet-singh-b055663a",
+    "name": "Kawaljeet Singh",
+    "summary": "Director, Panzer Technologies",
+    "location": "Hyderabad"
+},
+{
+    "link": "https://in.linkedin.com/in/abhishek-gupta-257265a",
+    "name": "Abhishek Gupta",
+    "summary": "Software design | Architecture | CI/CD | Dockers | Kubernetes | FastAPI | Django | React | Python | C++",
+    "location": "Bangalore Urban"
+},
+{
+    "link": "https://in.linkedin.com/in/amritpal-singh-40b1333a",
+    "name": "Amritpal Singh",
+    "summary": "Product Manager at Mahindra & Mahindra Swaraj Tractors Limited",
+    "location": "Faridabad"
+},
+{
+    "link": "https://in.linkedin.com/in/bharath2602",
+    "name": "Bharath Nallamothu",
+    "summary": "Product Manager | AIM Alumnus | SaaS | Enterprise Software",
+    "location": "Hyderabad"
+},
+{
+    "link": "https://in.linkedin.com/in/subhash-kulkarni-b81a7044",
+    "name": "SUBHASH KULKARNI",
+    "summary": "Divisional Product Manager at Forbes Marshall",
+    "location": "Pune"
+},
+{
+    "link": "https://in.linkedin.com/in/sunil-dashora-42017030",
+    "name": "Sunil Dashora",
+    "summary": "Director- India Business",
+    "location": "Gurgaon"
+}
+],
+"recommendations": ["I have had the opportunity to work and Interact with Ravi at GEP. During this time I found Ravi to be very well informed about the procurement domain, and competition in the market. He knew the domain extremely well and used to contribute to work with a strong basis of knowledge and confidence. 
+    He is always clear about his deliverables and knows the individual capabilities of his team members, to ensure right delegations to achieve those deliverables.\r\ n\ r\ nRavi has excellent project management skills, which he has demonstrated on several occasions when he had to take care of projects in critical situations.\r\ n\ r\ nWhat makes him an asset
+    for any organization is the ease with which he wears his many hats and the tasks he does - project management, client management, innovating, User Interface improvements...he is a complete package.
+    ", "
+    A long pending recommendation
+    for one of the best team members I had the pleasure of working with.Ravi is sharp, to the point and very hardworking(In short a manager "
+        s delight).He takes leadership on initiatives and makes sure to follow up from
+    start to end.At a very young age he has learnt the art of managing people "s expectations which the first step to great Product Management. Always under-commits and over delivers to make everyone happy.\r\n\r\nRavi would be a valuable resource in  both structured and unstructured environments. His quick adaptability and keen observant attitude will take him a long way in the Product Management field.\r\n\r\nBest of luck and keep the charm going.\r\n\r\nSidd"
+], "
+activities ": [{"
+title ": "
+I am distressed by the# COVID19 crisis in #India but I have hope and immense gratitude
+for how all the GEP Worldwide team members– in and outside… ", "
+link ": "
+https: //www.linkedin.com/signup/cold-join", "activity_status": "Liked by Ravi Mevcha"}, {"title": "Over the last month, I have had the opportunity to connect with and mentor a variety of folks on all things UX. Excited to be a part of the ADPList…", "link": "https://www.linkedin.com/signup/cold-join", "activity_status": "Liked by Ravi Mevcha"}, {"title": "My first step towards a subject that I am growing increasingly passionate about! #ProductManagement\nGave me a wonderful peek into PM mindset &…", "link": "https://www.linkedin.com/signup/cold-join", "activity_status": "Liked by Ravi Mevcha"}], "similarly_named_profiles": [], "articles": [], "groups": []}
